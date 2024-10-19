@@ -1,0 +1,12 @@
+[package]
+org = "heshanmanujaya"
+name = "project1"
+version = "0.1.0"
+distribution = "2201.10.1"
+
+[build-options]
+observabilityIncluded = true
+
+
+[dependencies]
+"mysql" = "1.2.1"
